@@ -5441,3 +5441,9 @@ these are pretty self explicative */
 @define-color wm_button_active_color_c #303030;
 @define-color content_view_bg #292929;
 
+/*Ubuntu Fixes*/
+
+/*
+@import url("ubuntu_styles_dark.css");
+@import url("unity_dark.css");
+*/
